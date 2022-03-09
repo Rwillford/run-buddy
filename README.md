@@ -13,4 +13,3 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made With ❤️ by Bob Willford
 
-### ©2019 Run Buddy, Inc.
